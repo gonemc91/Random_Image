@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Search Image</string>
+    <string name="reload">Reload</string>
+    <string name="random_number">Random number:</string>
+    <string name="enter_image_key">Enter image key</string>
+    <string name="keywords">Use keywords</string>
+    <string name="animals_radio">Animals</string>
+    <string name="architecture_radio">Architecture</string>
+    <string name="space_radio">Space</string>
+    <string name="all_radio">All</string>
+</resources>
